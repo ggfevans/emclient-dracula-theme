@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SerializableColorTheme name="Dracula" author="Dracula Theme">
+<SerializableColorTheme name="Dracula" author="Gareth Evans">
   <!--Form-->
   <FormBackground description="Background color of all windows">#282A36</FormBackground>
   <FormForeground description="Color of texts in all windows">#F8F8F2</FormForeground>
@@ -756,4 +756,5 @@
   <PopupBackground description="Color for background of popups">#DFCF03</PopupBackground>
   <PopupText description="Font color for popups">#FFFFFF</PopupText>
   <RoundedCornersRadius description="Radius of control corners. Use '0' for rectangular controls">4</RoundedCornersRadius>
+
 </SerializableColorTheme>
